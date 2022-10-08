@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>制作 on Pieces</title>
+    <link>http://example.org/tags/%E5%88%B6%E4%BD%9C/</link>
+    <description>Recent content in 制作 on Pieces</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/%E5%88%B6%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何制作锁屏小组件？</title>
+      <link>http://example.org/help/lockscreenmake/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/help/lockscreenmake/</guid>
+      <description>1. 开始制作锁屏小组件 # 2. 设置触发功能 # 若列表中找不到符合您需求的功能，您可以新增自定义功能，参见自定义功能项
+3. 设置图标（选填） # 图标将展示在锁屏界面上，App内置了大量图标，可根据喜好选择： 4. 设置备注名称（选填） # 备注名称可方便您在设置锁屏按钮时快速找到相关小组件： 5. 保存 # 制作完毕，您可以为锁屏添加此小组件啦，方法请参考使用小组件</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>feature on Pieces</title>
+    <link>http://example.org/tags/feature/</link>
+    <description>Recent content in feature on Pieces</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/feature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何自定义功能项？</title>
+      <link>http://example.org/help/feature/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/help/feature/</guid>
+      <description>小零件中内置了大量常用功能以及热门App的启动功能，若无法满足您的需求，您可以自定义功能项。在功能页面：
+点击查看推荐使用功能可查看内置的大量常用功能。 点击右上角+可添加自定义功能项，通过设置链接来实现自定义功能。 链接设置 # 打开任意网页 # 在网址输入框输入任意您想快速访问的网站地址，测试后保存即可，使用了此功能的小组件点击后将会跳转浏览器并打开指定的网站。
+调用快捷指令 # 快捷指令为iOS系统自带的强大App，可为您喜爱的应用创建包括多个步骤的个性化捷径指令，您在快捷指令设定好的自动化功能， 均可以应用到小组件上一键调用，利用此特性，可以让小组件的功能更加强大， 包括 打开任意App 等等。
+设置步骤如下：
+打开快捷指令，添加一条指令，并命名为X（X为可以为任意字符，例如&amp;quot;打开微信&amp;quot;、&amp;ldquo;播放音乐&amp;quot;等等） 然后，在指令名称输入框中输入名称X，注意必须与在快捷指令App中设置的名称完全一致才能正确调用。 测试后保存即可。 自定义 # URL Scheme是App提供给外部直接操作App的规则，利用它可以快捷唤起相关App并执行相关操作， 例如 打开任意微信小程序、打开任意支付宝小程序 等等。
+在URL Scheme输入框中填写相关应用的URL scheme，保存即可。
+附 - 支付宝小程序URL Scheme # alipay://platformapi/startapp?appId=xxx
+其中xxx为小程序的应用标识，获取方法如下： 附 - 微信小程序URL Scheme # weixin://?userName=xxx
+其中xxx为小程序的账号原始ID，获取方法如下： 使用 # 保存完毕后，在功能列表即能看到保存的条目，在制作小组件时可关联到选定条目，制作小组件可参考：锁屏小组件</description>
+    </item>
+    
+  </channel>
+</rss>

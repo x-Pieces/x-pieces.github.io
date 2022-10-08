@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>help on Pieces</title>
+    <link>http://example.org/tags/help/</link>
+    <description>Recent content in help on Pieces</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/help/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>常见问题（FAQ）</title>
+      <link>http://example.org/help/faq/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/help/faq/</guid>
+      <description>🤔 为什么购买PRO版本后却显示未解锁PRO版本？ # 请先检查是否扣款成功，如果已经扣款成功，可进入信息-&amp;gt;解锁PRO版本页面，点击底部的恢复之前的购买按钮进行恢复。
+🤔 为什么在小组件App列表中找不到小零件？ # 这可能是系统的bug，请先尝试重启手机后再次打开小零件，若还是找不到，请重新安装小零件。
+🤔 为什么通过小组件快捷启动会打开小零件App？ # 由于iOS系统限制，暂无直接打开目的App的方法，若后续有更便捷的方式我们会及时更新。
+🤔 为什么在App中修改了小组件后没有生效？ # 由于iOS系统小组件刷新机制的限制，可能会出现小组件更新延迟，您可做以下尝试：
+等待一小会; 反复锁屏与解锁，并点击小组件; 进入信息 -&amp;gt; 刷新小组件 来进行强制刷新; 🤔 锁屏小组件如何修改颜色？ # 可在锁屏界面进入编辑模式-&amp;gt;点击时钟部分更改整体颜色，但是由于iOS系统的限制，目前不支持按钮单独设置颜色。
+🤔 如何设置启动任意App？ # 请查看调用快捷指令
+🤔 如何设置启动任意小程序？ # 请查看自定义</description>
+    </item>
+    
+  </channel>
+</rss>

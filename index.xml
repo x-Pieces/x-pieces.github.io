@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to Pieces! :tada: on Pieces</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Welcome to Pieces! :tada: on Pieces</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何制作锁屏小组件？</title>
+      <link>http://example.org/help/lockscreenmake/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/help/lockscreenmake/</guid>
+      <description>1. 开始制作锁屏小组件 # 2. 设置触发功能 # 若列表中找不到符合您需求的功能，您可以新增自定义功能，参见自定义功能项
+3. 设置图标（选填） # 图标将展示在锁屏界面上，App内置了大量图标，可根据喜好选择： 4. 设置备注名称（选填） # 备注名称可方便您在设置锁屏按钮时快速找到相关小组件： 5. 保存 # 制作完毕，您可以为锁屏添加此小组件啦，方法请参考使用小组件</description>
+    </item>
+    
+    <item>
+      <title>如何使用锁屏小组件</title>
+      <link>http://example.org/help/lockscreensetting/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/help/lockscreensetting/</guid>
+      <description>本篇将教您如何使用锁屏小组件 在iPhone从顶部下拉进入操作界面后，按如下步骤操作： 重复以上步骤可添加多个锁屏小组件按钮。
+添加完毕后点击屏幕右上角完成，即可在锁屏界面使用啦！</description>
+    </item>
+    
+    <item>
+      <title>如何自定义功能项？</title>
+      <link>http://example.org/help/feature/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/help/feature/</guid>
+      <description>小零件中内置了大量常用功能以及热门App的启动功能，若无法满足您的需求，您可以自定义功能项。在功能页面：
+点击查看推荐使用功能可查看内置的大量常用功能。 点击右上角+可添加自定义功能项，通过设置链接来实现自定义功能。 链接设置 # 打开任意网页 # 在网址输入框输入任意您想快速访问的网站地址，测试后保存即可，使用了此功能的小组件点击后将会跳转浏览器并打开指定的网站。
+调用快捷指令 # 快捷指令为iOS系统自带的强大App，可为您喜爱的应用创建包括多个步骤的个性化捷径指令，您在快捷指令设定好的自动化功能， 均可以应用到小组件上一键调用，利用此特性，可以让小组件的功能更加强大， 包括 打开任意App 等等。
+设置步骤如下：
+打开快捷指令，添加一条指令，并命名为X（X为可以为任意字符，例如&amp;quot;打开微信&amp;quot;、&amp;ldquo;播放音乐&amp;quot;等等） 然后，在指令名称输入框中输入名称X，注意必须与在快捷指令App中设置的名称完全一致才能正确调用。 测试后保存即可。 自定义 # URL Scheme是App提供给外部直接操作App的规则，利用它可以快捷唤起相关App并执行相关操作， 例如 打开任意微信小程序、打开任意支付宝小程序 等等。
+在URL Scheme输入框中填写相关应用的URL scheme，保存即可。
+附 - 支付宝小程序URL Scheme # alipay://platformapi/startapp?appId=xxx
+其中xxx为小程序的应用标识，获取方法如下： 附 - 微信小程序URL Scheme # weixin://?userName=xxx
+其中xxx为小程序的账号原始ID，获取方法如下： 使用 # 保存完毕后，在功能列表即能看到保存的条目，在制作小组件时可关联到选定条目，制作小组件可参考：锁屏小组件</description>
+    </item>
+    
+    <item>
+      <title>常见问题（FAQ）</title>
+      <link>http://example.org/help/faq/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/help/faq/</guid>
+      <description>🤔 为什么购买PRO版本后却显示未解锁PRO版本？ # 请先检查是否扣款成功，如果已经扣款成功，可进入信息-&amp;gt;解锁PRO版本页面，点击底部的恢复之前的购买按钮进行恢复。
+🤔 为什么在小组件App列表中找不到小零件？ # 这可能是系统的bug，请先尝试重启手机后再次打开小零件，若还是找不到，请重新安装小零件。
+🤔 为什么通过小组件快捷启动会打开小零件App？ # 由于iOS系统限制，暂无直接打开目的App的方法，若后续有更便捷的方式我们会及时更新。
+🤔 为什么在App中修改了小组件后没有生效？ # 由于iOS系统小组件刷新机制的限制，可能会出现小组件更新延迟，您可做以下尝试：
+等待一小会; 反复锁屏与解锁，并点击小组件; 进入信息 -&amp;gt; 刷新小组件 来进行强制刷新; 🤔 锁屏小组件如何修改颜色？ # 可在锁屏界面进入编辑模式-&amp;gt;点击时钟部分更改整体颜色，但是由于iOS系统的限制，目前不支持按钮单独设置颜色。
+🤔 如何设置启动任意App？ # 请查看调用快捷指令
+🤔 如何设置启动任意小程序？ # 请查看自定义</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/help/homescreenmake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/help/homescreenmake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/help/homescreensetting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/help/homescreensetting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/help/transparent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/help/transparent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

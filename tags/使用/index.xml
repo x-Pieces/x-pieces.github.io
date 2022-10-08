@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>使用 on Pieces</title>
+    <link>http://example.org/tags/%E4%BD%BF%E7%94%A8/</link>
+    <description>Recent content in 使用 on Pieces</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/%E4%BD%BF%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何使用锁屏小组件</title>
+      <link>http://example.org/help/lockscreensetting/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/help/lockscreensetting/</guid>
+      <description>本篇将教您如何使用锁屏小组件 在iPhone从顶部下拉进入操作界面后，按如下步骤操作： 重复以上步骤可添加多个锁屏小组件按钮。
+添加完毕后点击屏幕右上角完成，即可在锁屏界面使用啦！</description>
+    </item>
+    
+  </channel>
+</rss>
